@@ -1,0 +1,34 @@
+/* MyTravels.css */
+
+.my-travels-container {
+    padding: 20px;
+}
+
+.my-travels-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.travel-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.travel-info {
+    margin-bottom: 5px;
+}
+
+.travel-info strong {
+    margin-right: 5px;
+}
+
+.travel-description {
+    color: #555;
+}
+
+.no-travels-message {
+    color: #555;
+}

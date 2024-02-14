@@ -1,0 +1,70 @@
+/* AdminTravels.css */
+
+.admin-travels-container {
+    padding: 20px;
+}
+
+.admin-travels-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.add-travel-form {
+    margin-bottom: 20px;
+    max-width: 400px;
+}
+
+.add-travel-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.add-travel-form input,
+.add-travel-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.add-travel-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.add-travel-form button:hover {
+    background-color: #0056b3;
+}
+
+.travel-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    max-width: 400px;
+}
+
+.travel-info {
+    margin-bottom: 5px;
+}
+
+.delete-button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.delete-button:hover {
+    background-color: #c82333;
+}

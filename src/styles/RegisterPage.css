@@ -1,0 +1,11 @@
+/* RegisterPage.css */
+
+.register-page-container {
+    padding: 20px;
+}
+
+.register-page-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}

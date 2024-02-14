@@ -1,0 +1,32 @@
+/* Travel.css */
+
+.travel-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.destination {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.questions-link {
+    display: block;
+    color: #007bff;
+    margin-top: 10px;
+}
+
+.sign-up-button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.sign-up-button:hover {
+    background-color: #218838;
+}
